@@ -243,7 +243,7 @@
 .newsletter {
     height: 600px;
     background: linear-gradient(rgba(226, 159, 121, 0.644), rgba(214, 156, 185, 0.726), rgba(173, 120, 160, 0.322));
-    margin: 30px 130px 50px 130px;
+    margin: 30px 130px 30px 130px;
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -273,5 +273,28 @@
     font-size: 15px;
     font-weight: 600;
     background: rgb(255, 0, 0);
+    color: aliceblue;
 }
 /* footer */
+.footer{
+    height: 400px;
+    background: linear-gradient(rgb(7, 7, 7), rgb(7, 7, 7), rgb(0, 0, 0));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+}
+.big{
+    display: flex;
+    margin: 0 130px;
+    padding: 50px;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+}
+.img7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
