@@ -79,3 +79,56 @@
     line-height: 58px;
     letter-spacing: 0%;
 }
+
+/* midnight-party */
+.midnight-party {
+    height: 600px;
+    background: linear-gradient(rgba(34, 33, 33, 0.432), rgba(32, 32, 32, 0.329), rgba(26, 26, 25, 0.404)), url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 30px 130px 50px 130px;
+    border-radius: 16px;
+    gap: 20px;
+    padding: 0 143px 0 143px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.party {
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+    font-weight: 900;
+   
+    line-height: 48px;
+}
+
+  .to-p  {
+    color: rgba(255, 255, 255, 0.8);
+    margin: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+}
+.btn{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgb(238, 238, 238);
+    border-radius: 12px;
+    font-weight: 800;
+    color: rgb(216, 64, 64); 
+}
+/* new-park-hotal */
+
+.new-park-hotal{
+    height: 600px;
+    background: linear-gradient(rgba(226, 159, 121, 0.644), rgba(238, 236, 237, 0.726), rgba(236, 234, 238, 0.322));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 30px 130px 50px 130px;
+    border-radius: 16px;
+    align-items: center;
+}
